@@ -137,7 +137,7 @@
         <item row="9" column="1">
          <layout class="QGridLayout" name="gridLayout">
           <item row="1" column="0">
-           <widget class="QPushButton" name="cancelar">
+           <widget class="QPushButton" name="btn_cancelar">
             <property name="enabled">
              <bool>false</bool>
             </property>
@@ -147,7 +147,7 @@
            </widget>
           </item>
           <item row="0" column="0">
-           <widget class="QPushButton" name="aceptar">
+           <widget class="QPushButton" name="btn_aceptar">
             <property name="enabled">
              <bool>false</bool>
             </property>
@@ -165,7 +165,7 @@
     <item>
      <layout class="QHBoxLayout" name="horizontalLayout">
       <item>
-       <widget class="QPushButton" name="nuevo">
+       <widget class="QPushButton" name="btn_nuevo">
         <property name="enabled">
          <bool>true</bool>
         </property>
@@ -175,7 +175,7 @@
        </widget>
       </item>
       <item>
-       <widget class="QPushButton" name="editar">
+       <widget class="QPushButton" name="btn_editar">
         <property name="enabled">
          <bool>false</bool>
         </property>
@@ -185,7 +185,7 @@
        </widget>
       </item>
       <item>
-       <widget class="QPushButton" name="eliminar">
+       <widget class="QPushButton" name="btn_eliminar">
         <property name="enabled">
          <bool>false</bool>
         </property>
@@ -195,7 +195,7 @@
        </widget>
       </item>
       <item>
-       <widget class="QPushButton" name="guardar">
+       <widget class="QPushButton" name="btn_guardar">
         <property name="enabled">
          <bool>false</bool>
         </property>
